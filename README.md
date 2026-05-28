@@ -10,3 +10,4 @@ A command-line task management application built in Python.
 
 ## Demo
 ![Demo](demo.gif)
+
